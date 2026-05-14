@@ -2,7 +2,7 @@
 
 **English:**
 
-INFORMATION NOT FOR THIS VERSION GO TO THE MINERCAD ULTIMATE 
+INFORMATION NOT FOR THIS VERSION GO TO THE MINERCAD ULTIMATE | BİLGİLER BU VERSİYON İÇİN DEĞİLDİR ULTİMATE SÜRÜMÜNE GİDİN
 
 MinerCad is a high-performance, tactical intelligence-gathering engine designed for cybersecurity professionals. It acts as a digital mining machine, performing deep-crawl operations to identify sensitive data points, leaked credentials, and infrastructure vulnerabilities.
 * **⚡ High-Speed Extraction:** Advanced multi-threading with ThreadPoolExecutor.
