@@ -1,6 +1,9 @@
 ### 🌍 [EN] Description & Features / 🇹🇷 Açıklama ve Özellikler
 
 **English:**
+
+INFORMATION NOT FOR THIS VERSION GO TO THE MINERCAD ULTIMATE 
+
 MinerCad is a high-performance, tactical intelligence-gathering engine designed for cybersecurity professionals. It acts as a digital mining machine, performing deep-crawl operations to identify sensitive data points, leaked credentials, and infrastructure vulnerabilities.
 * **⚡ High-Speed Extraction:** Advanced multi-threading with ThreadPoolExecutor.
 * **🔍 80+ Categories:** Detects Emails, API Keys, JWT tokens, Credit Cards, and more.
@@ -34,7 +37,7 @@ python minercad.py
 
 ### 📦 Versions Comparison / Sürüm Karşılaştırması
 
-| Feature / Özellik | MinerCad Normal (v3.0) | MinerCad Ultimate (v4.0) |
+| Feature / Özellik | MinerCad Normal | MinerCad Ultimate |
 | :--- | :--- | :--- |
 | **Lines / Satır** | ~400 Lines | ~1700 Lines |
 | **Categories / Kategori** | Standard Recon | 80+ Pro-Categories |
